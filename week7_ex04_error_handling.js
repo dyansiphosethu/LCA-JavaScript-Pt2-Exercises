@@ -88,7 +88,7 @@ console.log(reverseString("hello"));
 console.log(countCharacters("programming"));
 
 // Array helpers
-const numbers = [1, 2, 33, 45, 6, 44];
+const numbers = [1, 2, 33, 40, 6, 44];
 
 console.log(getSum(numbers));
 console.log(getLargest(numbers));
